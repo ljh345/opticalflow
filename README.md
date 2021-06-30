@@ -1,4 +1,4 @@
-# opticalFlow || EPOCH Laboratory 2021
+# Optical Flow || EPOCH Laboratory 2021
 
 **Project ID:** 8yGuHp7y
 
